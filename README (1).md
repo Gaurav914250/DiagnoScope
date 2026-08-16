@@ -1,1 +1,0 @@
-# Disease-prediction-using-ml
